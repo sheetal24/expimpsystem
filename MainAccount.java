@@ -10,6 +10,8 @@ public class MainAccount {
         Scanner sc = new Scanner(System.in);
          System.out.println("Enter the opening balance");
          money = sc.nextInt();
+        //changing to learn pull push conflicts 
+        //adding a line 
 
     }
 }
