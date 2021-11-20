@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeClass;
 
 public class BrowserCommands {
 	WebDriver driver;
-
+//test pull command
 	@BeforeClass
 	public void preConditionsForAllTests() {
 		System.out.println("I am in Before Class");
